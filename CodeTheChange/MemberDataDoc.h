@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
+// Data Structure for each member's contact information and image.
 @class MemberData;
 
 @interface MemberDataDoc : NSObject

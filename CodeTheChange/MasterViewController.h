@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+// (View/Controller) The class that deals with the Table View of all members.
 @interface MasterViewController : UITableViewController
 
 @property (strong) NSMutableArray *members;

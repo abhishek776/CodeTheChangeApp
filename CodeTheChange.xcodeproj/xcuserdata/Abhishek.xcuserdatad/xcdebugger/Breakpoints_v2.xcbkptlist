@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CodeTheChange/DetailViewController.h"
-            timestampString = "413000608.834607"
+            timestampString = "413066970.480167"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
             landmarkName = "@interface DetailViewController"
             landmarkType = "2">
          </BreakpointContent>

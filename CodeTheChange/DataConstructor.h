@@ -7,8 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
-#
+#import "MemberDataDoc.h"
 
+
+// (Model) The class that reads the data from .csv file
+// and returns it as an array for the controller.
 @interface DataConstructor : NSObject
 
 -(NSMutableArray*)construct;

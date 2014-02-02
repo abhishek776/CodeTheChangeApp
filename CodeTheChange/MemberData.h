@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
+// (Model) Data structure for each Member
 @interface MemberData : NSObject
 
 @property (strong) NSString *name;

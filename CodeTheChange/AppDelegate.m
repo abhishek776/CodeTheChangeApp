@@ -13,6 +13,7 @@
 
 @implementation AppDelegate
 
+// Launches the application with the members array as the table view.
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     DataConstructor * constructor = [[DataConstructor alloc] init];

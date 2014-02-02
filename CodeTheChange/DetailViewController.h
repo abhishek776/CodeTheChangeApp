@@ -9,6 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <MessageUI/MessageUI.h>
 
+
+// (View/Controller) Represents the page for each individual members (The Detail Pages)
+// Contains methods that link the buttons to the contact links and displays the information
+// from the member's Data object.
+
 @class MemberDataDoc;
 
 @interface DetailViewController : UIViewController < MFMessageComposeViewControllerDelegate>
